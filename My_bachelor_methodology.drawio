@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T19:47:27.993Z" agent="5.0 (X11)" etag="ch0xf7lhboUw-d4RTXYs" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T19:49:27.079Z" agent="5.0 (X11)" etag="0zC2OHdJNpMhJNPuqoJ0" version="16.5.5" type="github">
   <diagram id="V9UyOql_ToTHPF06Edq8" name="Page-1">
     <mxGraphModel dx="1483" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
         <mxCell id="QSGgm3x1fwg6DJeKjKM8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QSGgm3x1fwg6DJeKjKM8-8" target="QSGgm3x1fwg6DJeKjKM8-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div&gt;CSSE, John Hopkins&lt;/div&gt;&lt;div&gt;Covid cases/deaths&lt;br&gt;&lt;/div&gt;" link="https://github.com/Dmusulas/COVID-19" id="QSGgm3x1fwg6DJeKjKM8-8">
+        <UserObject label="&lt;div&gt;&lt;a href=&quot;https://github.com/Dmusulas/COVID-19&quot;&gt;CSSE&lt;/a&gt;, John Hopkins&lt;/div&gt;&lt;div&gt;Covid cases/deaths&lt;br&gt;&lt;/div&gt;" link="https://github.com/Dmusulas/COVID-19" id="QSGgm3x1fwg6DJeKjKM8-8">
           <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" vertex="1" parent="1">
             <mxGeometry x="501" y="430" width="138" height="70" as="geometry" />
           </mxCell>
